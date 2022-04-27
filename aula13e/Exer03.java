@@ -1,4 +1,5 @@
 package com.loiane.curso.aula13e;
+// 	3. Faça um programa que peça dois números e imprima a soma.
 
 import java.util.Scanner;
 

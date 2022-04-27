@@ -2,7 +2,10 @@ package com.loiane.curso.aula13e;
 
 import java.util.Scanner;
 
-//não consegui fazer
+/* 	7. Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta 
+ * área para o usuário.
+ */
+
 public class Exer07 {
 
 	public static void main(String[] args) {

@@ -1,4 +1,7 @@
 package com.loiane.curso.aula13e;
+/* 	10. Faça um programa que peça a temperatura em graus Celsius, transforme e mostre a 
+ * temperatura em graus  Farenheit.
+ */
 
 import java.util.Scanner;
 

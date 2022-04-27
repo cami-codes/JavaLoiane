@@ -1,4 +1,10 @@
 package com.loiane.curso.aula13e;
+/* 	11. Faça um programa que peça 2 números inteiros e um número real. 
+Calcule e mostre:
+a. o produto do dobro do primeiro com metade do segundo.
+b. a soma do triplo do primeiro com o terceiro.
+c. o terceiro elevado ao cubo.
+*/
 
 import java.util.Scanner;
 

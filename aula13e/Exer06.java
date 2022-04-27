@@ -2,7 +2,8 @@ package com.loiane.curso.aula13e;
 
 import java.util.Scanner;
 
-// não consegui fazer
+// 6. Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
+
 public class Exer06 {
 
 	public static void main(String[] args) {
