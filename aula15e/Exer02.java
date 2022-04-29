@@ -1,4 +1,5 @@
 package com.loiane.curso.aula15e;
+// 	2. Faça um programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 
 import java.util.Scanner;
 

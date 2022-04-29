@@ -1,4 +1,6 @@
 package com.loiane.curso.aula15e;
+// 	3. Faça um programa que verifique se uma letra digitada é "F" ou "M"
+// Conforme a letra escrever: F- Feminino, M- Masculino, Não binário- nao binário
 
 
 import java.util.Scanner;
@@ -16,8 +18,10 @@ public class Exer03 {
 			System.out.println("Feminino");
 		}else if (letra.equalsIgnoreCase("M")){
 			System.out.println("Masculino");	
-		}else {
-			System.out.println("Sexo inválido");
+		}else if (letra.equalsIgnoreCase("nao binario")){
+			System.out.println("Não binário");
+		} else {
+			System.out.println("Inválido");
 		}
 		
 	}

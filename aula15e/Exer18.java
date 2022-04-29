@@ -1,5 +1,9 @@
 package com.loiane.curso.aula15e;
+/*	18. Faça um programa que peça um número inteiro e determine se ele é par ou ímpar. 
+ * Dica: utilize o operador módulo (resto da divisão).
 
+ * 
+ */
 import java.util.Scanner;
 
 public class Exer18 {

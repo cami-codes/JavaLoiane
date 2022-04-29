@@ -1,4 +1,9 @@
 package com.loiane.curso.aula15e;
+/* 	10. Faça um programa que pergunte em que turno você estuda. Peça para digitar 
+ * M- Matutino, V- Vespertino ou N- Noturno. 
+ * Imprima a mensagem "Bom dia!", "Boa tarde!" ou "Boa noite!" ou "Valor inválido", 
+ * conforme o caso.
+ */
 
 import java.util.Scanner;
 

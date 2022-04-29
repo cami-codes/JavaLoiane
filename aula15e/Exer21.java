@@ -1,5 +1,17 @@
 package com.loiane.curso.aula15e;
+/*	21. Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+		○ Álcool:
+		a. Até 20 litros, desconto de 3% por litro
+		b. Acima de 20 litros, desconto de 5% por litro
+	
 
+		○ Gasolina:
+		a. Até 20 litros, desconto de 4% por litro
+		b. Acima de 20 litros, desconto de 6% por litro.
+Escreva um  algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A- álcool, G- gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 e o preço do litro do álcool é R$ 1,90.
+
+ * 
+ */
 import java.util.Scanner;
 
 public class Exer21 {
@@ -10,7 +22,7 @@ public class Exer21 {
 		System.out.println("Informe o total de litros vendidos:");
 		double litros = scan.nextDouble();
 		
-		System.out.println("Informe o tipo de combust�vel (G- Gasolina, A- �lcool):");
+		System.out.println("Informe o tipo de combustível (G- Gasolina, A- Álcool):");
 		String tipo = scan.next();
 		
 		double precoGas = 2.5;

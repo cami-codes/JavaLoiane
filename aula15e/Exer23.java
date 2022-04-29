@@ -1,5 +1,14 @@
 package com.loiane.curso.aula15e;
+/*	23. O Hipermercado Tabajara está com uma promoção de carnes que é imperdível, confira:
+		Até 5kg	Acima de 5kg
+	Filé Duplo	R$4,90 por kg	R$ 5,80 por kg
+	Alcatra	R$5,90 por kg	R$ 6,80 por kg
+	Picanha	R$6,90 por kg	R$7,80 por kg
+	Para atender todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se a compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total da compra. 
+Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
 
+ * 
+ */
 import java.util.Scanner;
 
 public class Exer23 {

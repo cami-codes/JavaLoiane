@@ -1,5 +1,9 @@
 package com.loiane.curso.aula17e;
+/*	14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de 
+ * números pares e a quantidade de números ímpares.
 
+ * 
+ */
 import java.util.Scanner;
 
 public class Exer14 {

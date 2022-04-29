@@ -1,4 +1,5 @@
 package com.loiane.curso.aula17e;
+// 	11. Altere o programa anterior para mostrar no final a soma dos números.
 
 import java.util.Scanner;
 

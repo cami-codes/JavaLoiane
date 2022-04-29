@@ -1,5 +1,12 @@
 package com.loiane.curso.aula15e;
+/*	19. Faça um programa que leia dois números e em seguida pergunte ao usuário qual operação 
+ * ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se 
+ * o número é:
+		· Par ou ímpar;
+		· Positivo ou negativo;
 
+ * 
+ */
 import java.util.Scanner;
 
 public class Exer19 {

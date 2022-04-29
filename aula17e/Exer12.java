@@ -1,7 +1,10 @@
 package com.loiane.curso.aula17e;
 
 import java.util.Scanner;
-
+/* Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número entre 1 a 10. 
+ * O usuário deve informar de qual número ele deseja ver a tabuada.
+ * 
+ */
 public class Exer12 {
 
 	public static void main(String[] args) {
